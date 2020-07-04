@@ -1,0 +1,6 @@
++ Soporte para capas (con soporte distintas escalas) y transponer
++ Arreglar problema de margin. Calcular width que funcione que no cause un height flotante. Maybe fix tamaño del render para que encuentre el mejor tamaño
+
+NEXT
++ Soporte para arrays de texto y encripción de mensajes
++ Columnas
